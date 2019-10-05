@@ -5,6 +5,7 @@
 # 1 Introductionasdsadsad
 </p>   
 
+->THIS TEXT IS IN THE CENTER!<-  
 
 ## 1 Introduction  
 1.1.1 What is Machine Learning?  
