@@ -2,6 +2,7 @@
 ## Content
 ## [**Part 1**:](Part1)  
 1.1 Introduction  
+[link](Part1/README.md#Content)
 1.2 Model and Cost Fucntion  
 1.3 Parameter Learning  
 1.4 [Linear Algebra Review](#Part-11)  
