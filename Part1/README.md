@@ -1,9 +1,3 @@
-<script src="//yihui.name/js/math-code.js"></script>
-<!-- Just one possible MathJax CDN below. You may use others. -->
-<script async
-  src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
 ## Part 1
 ### Content  
 
@@ -91,9 +85,7 @@ Non-clustering: The "Cocktail Party Algorithm", allows you to find structure in 
 
 ### 1-2 Model and Cost Fucntion
 #### ```1-2-1 Model Representation```   
-To establish notation for future use, we’ll use x^{(i)}x   
-(i)  
-  to denote the “input” variables (living area in this example), also called input features, and y^{(i)}y 
+To establish notation for future use, we’ll use x^{(i)} to denote the “input” variables (living area in this example), also called input features, and y^{(i)}y 
 (i)
   to denote the “output” or target variable that we are trying to predict (price). A pair (x^{(i)} , y^{(i)} )(x 
 (i)
