@@ -1,7 +1,7 @@
 # Part 1
 ## Content  
 
-<p align="center"; font-size="2em">
+<p align="center"; font-size="10em">
 # 1 Introductionasdsadsad
 </p>   
 
