@@ -1,8 +1,9 @@
 # Part 1
 ## Content  
 
-<p align="center">## 1 Introduction</p>  
-<span style="color:red; font-family:Georgia; text-align:center; font-size:2em;">The</span>  
+<p align="center">
+## 1 Introduction
+</p>   
 
 
 ## 1 Introduction  
