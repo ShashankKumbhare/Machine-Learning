@@ -23,4 +23,27 @@
 1.4.3 Matrix-Vector Multiplication  
 1.4.4 Matrix-Matrix Multiplication  
 1.4.5 Matrix Multiplication Properties  
-1.4.6 Inverse and Transpose 
+1.4.6 Inverse and Transpose  
+
+# 1. Introduction  
+	1.1.1 What is Machine Learning?  
+	
+	1.1.2 Supervised Learning  
+	
+	1.1.3 Unsupervised Learning 
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
