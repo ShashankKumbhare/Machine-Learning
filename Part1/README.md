@@ -48,7 +48,7 @@ Supervised learning and Unsupervised learning.
 
 ---
 
-#### **```1-1-2 Supervised Learning```**  	
+#### ```1-1-2 Supervised Learning```  
 In supervised learning, we are given a data set and already know what our correct output should look like, having the idea that there is a relationship between the input and the output.  
   
 Supervised learning problems are categorized into "regression" and "classification" problems. In a regression problem, we are trying to predict results within a continuous output, meaning that we are trying to map input variables to some continuous function. In a classification problem, we are instead trying to predict results in a discrete output. In other words, we are trying to map input variables into discrete categories.
@@ -84,7 +84,7 @@ Non-clustering: The "Cocktail Party Algorithm", allows you to find structure in 
 ---
 
 ### 1-2 Model and Cost Fucntion
-#### ```1-2-1 Model Representation   
+#### ```1-2-1 Model Representation```   
 To establish notation for future use, we’ll use x^{(i)}x   
 (i)  
   to denote the “input” variables (living area in this example), also called input features, and y^{(i)}y 
@@ -102,58 +102,58 @@ When the target variable that we’re trying to predict is continuous, such as i
     
 ---
 
-#### ```1-2-2 Cost Function    
+#### ```1-2-2 Cost Function```    
 
 
 ---
 
-#### ```1-2-3 Cost Function - Intuition I     
+#### ```1-2-3 Cost Function - Intuition I```     
 
 
 ---
 
-#### ```1-2-4 Cost Function - Intuition II      
+#### ```1-2-4 Cost Function - Intuition II```      
 
 
 ---
 ---
 
 ### 1-3 Parameter Learning
-#### ```1-3-1 Gradient Descent    
+#### ```1-3-1 Gradient Descent```    
 
 
 ---
-#### ```1-3-2 Gradient Descent Intuition    
+#### ```1-3-2 Gradient Descent Intuition```    
 
 
 ---
-#### ```1-3-3 Gradient Descent For Linear Regression     
+#### ```1-3-3 Gradient Descent For Linear Regression```     
 
 
 ---
 ---
 ### 1-4 Linear Algebra Review
-#### ```1-4-1 Matrices and Vectors   
+#### ```1-4-1 Matrices and Vectors```   
 
 
 ---
-#### ```1-4-2 Addition and Scalar Multiplication   
+#### ```1-4-2 Addition and Scalar Multiplication```   
 
 
 ---
-#### ```1-4-3 Matrix-Vector Multiplication    
+#### ```1-4-3 Matrix-Vector Multiplication```    
 
 
 ---
-#### ```1-4-4 Matrix-Matrix Multiplication   
+#### ```1-4-4 Matrix-Matrix Multiplication```   
 
 
 ---
-#### ```1-4-5 Matrix Multiplication Properties   
+#### ```1-4-5 Matrix Multiplication Properties```   
 
 
 ---
-#### ```1-4-6 Inverse and Transpose   
+#### ```1-4-6 Inverse and Transpose```   
 	
 	
 
