@@ -24,6 +24,7 @@
 1-4-4 Matrix-Matrix Multiplication  
 1-4-5 Matrix Multiplication Properties  
 1-4-6 Inverse and Transpose  
+
 ---
   
 ### 1-1 Introduction
