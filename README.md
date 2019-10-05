@@ -1,7 +1,7 @@
 # Welcome to Machine Learning Course
 ### Content
 ## [Part 1:](Part1)  
-1.1 [Introduction](Part1/README.md#1-Introduction)
+1.1 [Introduction](Part1/README.md#1-Introduction)  
 1.2 Model and Cost Fucntion  
 1.3 Parameter Learning  
 1.4 [Linear Algebra Review](#Part-11)  
