@@ -4,7 +4,7 @@
 Introduction
 Model and Cost Fucntion
 Parameter Learning
-Linear Algebra Review
+Linear Algebra Review  
 	Part 2  
 	Part 3  
 	Part 4  
