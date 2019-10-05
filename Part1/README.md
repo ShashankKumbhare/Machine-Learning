@@ -1,9 +1,7 @@
 # Part 1
 ## Content  
-
 <span style="text-align:center">1Introduction</span>
-<p align="center">1Introduction</p>
-<center>## 1 Introduction</center>
+
 
 ## 1 Introduction  
 1.1.1 What is Machine Learning?  
