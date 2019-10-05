@@ -1,6 +1,6 @@
 # Welcome to Machine Learning Course
 ## Content
-## [**Part 1**:](Part1)  
+## [Part 1:](Part1)  
 1.1 Introduction  
 [link](Part1/README.md#Content)
 1.2 Model and Cost Fucntion  
