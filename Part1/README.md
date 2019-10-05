@@ -3,8 +3,8 @@
 
 <font size="+4">Description</font>
 
-<p align="center"; font-size="10em">  
-# 1 Introductionasdsadsad
+<p align="center"; font-size="10em">
+	# 1 Introductionasdsadsad
 </p>   
 
 ->THIS TEXT IS IN THE CENTER!<-  
