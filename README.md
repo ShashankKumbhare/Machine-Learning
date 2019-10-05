@@ -18,13 +18,13 @@ Part 11
 1.1.1 What is Machine Learning?  
 1.1.2 Supervised Learning  
 1.1.3 Unsupervised Learning  
-  
+
 	2 Model and Cost Fucntion  
 1.2.1 Model Representation  
 1.2.2 Cost Function  
 1.2.3 Cost Function - Intuition I  
 1.2.4 Cost Function - Intuition II  
-  
+
 	3 Parameter Learning  
 1.3.1 Gradient Descent  
 1.3.2 Gradient Descent Intuition  
