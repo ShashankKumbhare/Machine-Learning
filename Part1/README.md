@@ -11,11 +11,29 @@
 1.2.2 Cost Function  
 1.2.3 Cost Function - Intuition I  
 1.2.4 Cost Function - Intuition II  
+asdasd
+asdasdsad
+
+dsd
+dsdsd
+dsdd
+dsdd
+dsdd
+
 
 **1.3 Parameter Learning**  
 1.3.1 Gradient Descent  
 1.3.2 Gradient Descent Intuition  
 1.3.3 Gradient Descent For Linear Regression  
+dsdd
+dsdd
+dsdd
+dsdsdd
+sdsad
+sad
+sadd
+sdsadds
+dsd
 
 **1.4 Linear Algebra Review**  
 1.4.1 Matrices and Vectors  
