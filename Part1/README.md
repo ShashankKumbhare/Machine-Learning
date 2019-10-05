@@ -1,6 +1,7 @@
 # Part 1
 ## Content  
-<span style="text-align:center">## 1 Introduction</span>
+
+<p align="center">## 1 Introduction</p>
 
 
 ## 1 Introduction  
