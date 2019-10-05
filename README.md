@@ -5,7 +5,7 @@
 [1.2 Model and Cost Fucntion](Part1/README.md#2-Model-and-Cost-Fucntion)  
 [1.3 Parameter Learning](Part1/README.md#3-Parameter-Learning)  
 [1.4 Linear Algebra Review](Part1/README.md#4-Linear-Algebra-Review)  
-
+---
 ## [Part 2:](Part2)  
 2.1  
 2.2  
