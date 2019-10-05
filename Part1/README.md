@@ -27,14 +27,107 @@
 
 ## 1. Introduction  
 	1.1.1 What is Machine Learning?  
-	
+asd
+dsadsa
+dsadsaasd
+sad
+sadasd
+sadsa
+dsadsad
+sadsadsa
+
+sadsadsad
+sd
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsa	
 	
 	
 ## 2. Model and Cost Fucntion
+	1.1.1 What is Machine Learning?  
+
+asd
+dsadsa
+dsadsaasd
+sad
+sadasd
+sadsa
+dsadsad
+sadsadsa
+
+sadsadsad
+sd
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsa	
 
 ## 3. Parameter Learning 
+	1.1.1 What is Machine Learning?  
+
+asd
+dsadsa
+dsadsaasd
+sad
+sadasd
+sadsa
+dsadsad
+sadsadsa
+
+sadsadsad
+sd
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsa	
 
 ## 4. Linear Algebra Review  
+	1.1.1 What is Machine Learning?  
+
+asd
+dsadsa
+dsadsaasd
+sad
+sadasd
+sadsa
+dsadsad
+sadsadsa
+
+sadsadsad
+sd
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsad
+dsadsa	
 
 	
 	
