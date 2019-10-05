@@ -88,8 +88,6 @@ Supervised learning and Unsupervised learning.
 #### ```1-4-5 Matrix Multiplication Properties   
 ---
 #### ```1-4-6 Inverse and Transpose   
----
----
 	
 	
 
