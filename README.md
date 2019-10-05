@@ -2,9 +2,9 @@
 ### Content
 ## [Part 1:](Part1)  
 1.1 [Introduction](Part1/README.md#1-Introduction)  
-1.2 Model and Cost Fucntion  
-1.3 Parameter Learning  
-1.4 [Linear Algebra Review](#Part-11)  
+1.2 [Model and Cost Fucntion](Part1/README.md#2-Model-and-Cost-Fucntion)  
+1.3 [Parameter Learning](Part1/README.md#3-Parameter-Learning)  
+1.4 [Linear Algebra Review](Part1/README.md#4-Linear-Algebra-Review)  
 
 ## [Part 2:](Part2)  
 2.1  
@@ -48,9 +48,6 @@
 ## [Part 10:](Part10)  
 	
 ## [Part 11:](Part11)  
-
-
-## abc  
 	
 
  

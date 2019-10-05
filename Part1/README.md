@@ -25,18 +25,17 @@
 1.4.5 Matrix Multiplication Properties  
 1.4.6 Inverse and Transpose  
 
-# 1. Introduction  
+## 1. Introduction  
 	1.1.1 What is Machine Learning?  
 	
-jhgjh
-
-	1.1.2 Supervised Learning  
 	
-mmhjgj
-
-	1.1.3 Unsupervised Learning 
 	
-vbcbfcd
+## 2. Model and Cost Fucntion
+
+## 3. Parameter Learning 
+
+## 4. Linear Algebra Review  
+
 	
 	
 
