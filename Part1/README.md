@@ -26,7 +26,7 @@
 1.4.6 Inverse and Transpose  
 
 
-### 11 Introduction
+### 1.1 Introduction
 	1.1.1 What is Machine Learning?  
 	
 	1.1.2 Supervised Learning  
@@ -48,7 +48,7 @@
 
 	
 
-## 1.4 Linear Algebra Review
+### 1.4 Linear Algebra Review
 	1.4.1 Matrices and Vectors  
 	1.4.2 Addition and Scalar Multiplication  
 	1.4.3 Matrix-Vector Multiplication  
