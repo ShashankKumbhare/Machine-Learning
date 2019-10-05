@@ -1,6 +1,5 @@
 # Welcome to Machine Learning Course
 ### Content
-  
 ---
 ## [Part 1:](Part1)  
 [1.1 Introduction](Part1/README.md#1-Introduction)  
