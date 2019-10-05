@@ -50,7 +50,7 @@
 
 	
 
-### 1.4 Linear Algebra Review  
+## 1.4 Linear Algebra Review  
 	1.4.1 Matrices and Vectors  
 	1.4.2 Addition and Scalar Multiplication  
 	1.4.3 Matrix-Vector Multiplication  
