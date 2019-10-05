@@ -45,7 +45,7 @@ In general, any machine learning problem can be assigned to one of two broad cla
 Supervised learning and Unsupervised learning.  
 
 
-#### ```1-1-2 Supervised Learning```  	
+#### **```1-1-2 Supervised Learning```**  	
 #### ```1-1-3 Unsupervised Learning```  
 	
 ### 1-2 Model and Cost Fucntion
