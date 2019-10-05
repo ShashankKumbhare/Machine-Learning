@@ -13,7 +13,7 @@ Part 10
 Part 11    
 
 # Part 1
-##Content
+## Content
 	1 Introduction   
 1.1.1 What is Machine Learning?  
 1.1.2 Supervised Learning  
