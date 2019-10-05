@@ -1,3 +1,9 @@
+<script src="//yihui.name/js/math-code.js"></script>
+<!-- Just one possible MathJax CDN below. You may use others. -->
+<script async
+  src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 ## Part 1
 ### Content  
 
@@ -156,5 +162,12 @@ When the target variable that we’re trying to predict is continuous, such as i
 #### ```1-4-6 Inverse and Transpose```   
 	
 	
+Hi `$z = x + y$`.
+
+`$$a^2 + b^2 = c^2$$`
+
+`$$\begin{vmatrix}a & b\\
+c & d
+\end{vmatrix}=ad-bc$$`
 
 
