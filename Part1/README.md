@@ -161,19 +161,3 @@ When the target variable that we’re trying to predict is continuous, such as i
 ---
 #### ```1-4-6 Inverse and Transpose```   
 	
-	
-Hi `$z = x + y$`.
-
-`$$a^2 + b^2 = c^2$$`
-
-`$$\begin{vmatrix}a & b\\
-c & d
-\end{vmatrix}=ad-bc$$`
-
-2^10^
-
-
-  
-  \f{x} = \int_{-\infty}^\infty
-    \hat \f\xi\,e^{2 \pi i \xi x}
-    \,d\xi
