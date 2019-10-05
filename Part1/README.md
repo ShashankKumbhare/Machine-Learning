@@ -45,6 +45,7 @@ P = the probability that the program will win the next game.
 In general, any machine learning problem can be assigned to one of two broad classifications:  
   
 Supervised learning and Unsupervised learning.  
+
 ---
 
 #### **```1-1-2 Supervised Learning```**  	
@@ -63,44 +64,71 @@ Example 2:
 (a) Regression - Given a picture of a person, we have to predict their age on the basis of the given picture  
   
 (b) Classification - Given a patient with a tumor, we have to predict whether the tumor is malignant or benign.  
+
 ---
 
 #### ```1-1-3 Unsupervised Learning```   
+
+
 ---	
 ---
 
 ### 1-2 Model and Cost Fucntion
-#### ```1-2-1 Model Representation     
+#### ```1-2-1 Model Representation   
+
+  
 ---
 
 #### ```1-2-2 Cost Function    
+
+
 ---
 
 #### ```1-2-3 Cost Function - Intuition I     
+
+
 ---
 
 #### ```1-2-4 Cost Function - Intuition II      
+
+
 ---
 ---
 
 ### 1-3 Parameter Learning
 #### ```1-3-1 Gradient Descent    
+
+
 ---
 #### ```1-3-2 Gradient Descent Intuition    
+
+
 ---
 #### ```1-3-3 Gradient Descent For Linear Regression     
+
+
 ---
 ---
 ### 1-4 Linear Algebra Review
 #### ```1-4-1 Matrices and Vectors   
+
+
 ---
 #### ```1-4-2 Addition and Scalar Multiplication   
+
+
 ---
 #### ```1-4-3 Matrix-Vector Multiplication    
+
+
 ---
 #### ```1-4-4 Matrix-Matrix Multiplication   
+
+
 ---
 #### ```1-4-5 Matrix Multiplication Properties   
+
+
 ---
 #### ```1-4-6 Inverse and Transpose   
 	
