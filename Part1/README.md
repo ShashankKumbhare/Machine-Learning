@@ -27,9 +27,9 @@
 
 # 1. Introduction  
 	1.1.1 What is Machine Learning?  
-
+jhgjh
 	1.1.2 Supervised Learning  
-	
+mmhjgj
 	1.1.3 Unsupervised Learning 
 	
 	
