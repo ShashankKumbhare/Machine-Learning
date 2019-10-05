@@ -24,8 +24,8 @@
 1-4-4 Matrix-Matrix Multiplication  
 1-4-5 Matrix Multiplication Properties  
 1-4-6 Inverse and Transpose  
-
-
+---
+  
 ### 1-1 Introduction
 #### ```1-1-1 What is Machine Learning?```  
 Two definitions of ```Machine``` Learning are offered. Arthur Samuel described it as: "the field of study that gives computers the ability to learn without being explicitly programmed." This is an older, informal definition.  
