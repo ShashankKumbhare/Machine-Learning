@@ -6,7 +6,7 @@
 1.3 Parameter Learning  
 1.4 Linear Algebra Review  
 
-[**Part 2**:](Part 2)  
+[**Part 2**:](Part2)  
 2.1  
 2.2  
 2.3  
