@@ -26,6 +26,7 @@
 1-4-6 Inverse and Transpose  
 
 ---
+---
   
 ### 1-1 Introduction
 #### ```1-1-1 What is Machine Learning?```  
