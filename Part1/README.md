@@ -1,8 +1,8 @@
 # Part 1
 ## Content  
-<center>## 1 Introduction</center>## 1 Introduction  
+<center>## 1 Introduction</center>## 
 
-
+1 Introduction  
 1.1.1 What is Machine Learning?  
 1.1.2 Supervised Learning  
 1.1.3 Unsupervised Learning  
