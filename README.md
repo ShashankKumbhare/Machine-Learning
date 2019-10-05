@@ -4,7 +4,7 @@
 1.1 Introduction  
 1.2 Model and Cost Fucntion  
 1.3 Parameter Learning  
-1.4 [Linear Algebra Review](##Part-11)  
+1.4 [Linear Algebra Review](##**Part-11**)  
 
 ## [**Part 2**:](Part2)  
 2.1  
