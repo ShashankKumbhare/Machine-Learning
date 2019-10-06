@@ -186,7 +186,7 @@ Regardless of the slope's sign for <sup>d</sup>&frasl;<sub>dx</sub>(J(&theta;<su
 
 <p align="center"><img src=images/gd1.png></p>
 
-On a side note, we should adjust our parameter \alphaα to ensure that the gradient descent algorithm converges in a reasonable time. Failure to converge or too much time to obtain the minimum value imply that our step size is wrong.  
+On a side note, we should adjust our parameter α to ensure that the gradient descent algorithm converges in a reasonable time. Failure to converge or too much time to obtain the minimum value imply that our step size is wrong.  
 
 <p align="center"><img src=images/gd2.png></p>
 
