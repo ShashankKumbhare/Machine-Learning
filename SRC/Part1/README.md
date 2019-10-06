@@ -26,7 +26,6 @@
 1-4-6 Inverse and Transpose  
   
 ---
----
   
   
 ## 1-1 Introduction
@@ -82,7 +81,6 @@ Clustering: Take a collection of 1,000,000 different genes, and find a way to au
 Non-clustering: The "Cocktail Party Algorithm", allows you to find structure in a chaotic environment. (i.e. identifying individual voices and music from a mesh of sounds at a cocktail party).  
   
 ---	
----
 
 ## 1-2 Model and Cost Fucntion
 ### ```1-2-1 Model Representation```   
