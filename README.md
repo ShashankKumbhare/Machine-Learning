@@ -2,7 +2,7 @@
 
 ### Content
 
-## [Part 1:](Part1)  
+## [Part 1:](SRC/Part1)  
 [1-1 Introduction](SRC/Part1/README.md#1-1-Introduction)  
 [1-2 Model and Cost Fucntion](SRC/Part1/README.md#1-2-Model-and-Cost-Fucntion)  
 [1-3 Parameter Learning](SRC/Part1/README.md#1-3-Parameter-Learning)  
@@ -10,7 +10,7 @@
 
 ---
 ---
-## [Part 2:](Part2)  
+## [Part 2:](SRC/Part2)  
 [2-1 ]()  
 [2-2 ]()  
 [2-3 ]()  
@@ -18,7 +18,7 @@
 
 ---
 ---	
-## [Part 3:](Part3)  
+## [Part 3:](SRC/Part3)  
 [3-1 ]()  
 [3-2 ]()  
 [3-3 ]()  
@@ -26,7 +26,7 @@
 
 ---	
 ---
-## [Part 4](Part4)
+## [Part 4](SRC/Part4)
 [4-1 ]()  
 [4-2 ]()  
 [4-3 ]()  
@@ -34,7 +34,7 @@
 
 ---	
 ---
-## [Part 5:](Part5)  
+## [Part 5:](SRC/Part5)  
 [5-1 ]()  
 [5-2 ]()  
 [5-3 ]()  
@@ -42,7 +42,7 @@
 
 ---	
 ---
-## [Part 6:](Part6)  
+## [Part 6:](SRC/Part6)  
 [6-1 ]()   
 [6-2 ]()  
 [6-3 ]()  
@@ -50,7 +50,7 @@
 
 ---
 ---
-## [Part 7:](Part7)  
+## [Part 7:](SRC/Part7)  
 [7-1 ]()  
 [7-2 ]()  
 [7-3 ]()  
@@ -58,7 +58,7 @@
 
 ---
 ---
-## [Part 8:](Part8)  
+## [Part 8:](SRC/Part8)  
 [8-1 ]()  
 [8-2 ]()  
 [8-3 ]()  
@@ -66,7 +66,7 @@
 
 ---	
 ---		
-## [Part 9:](Part9)  
+## [Part 9:](SRC/Part9)  
 [9-1 ]()  
 [9-2 ]()  
 [9-3 ]()  
@@ -74,7 +74,7 @@
 
 ---	
 ---
-## [Part 10:](Part10)  
+## [Part 10:](SRC/Part10)  
 [10-1 ]()  
 [10-2 ]()  
 [10-3 ]()  
@@ -82,7 +82,7 @@
 
 ---	
 ---
-## [Part 11:](Part11)  
+## [Part 11:](SRC/Part11)  
 [11-1 ]()  
 [11-2 ]()  
 [11-3 ]()  
