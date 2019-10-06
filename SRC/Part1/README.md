@@ -88,7 +88,7 @@ To establish notation for future use, we’ll use x<sup>(i)</sup> to denote the 
   
 To describe the supervised learning problem slightly more formally, our goal is, given a training set, to learn a function h : X → Y so that h(x) is a “good” predictor for the corresponding value of y. For historical reasons, this function h is called a hypothesis. Seen pictorially, the process is therefore like this:  
 
-<p align="center"><img src=model.jpg></p>  
+<p align="center"><img src=model.png></p>  
    
 When the target variable that we’re trying to predict is continuous, such as in our housing example, we call the learning problem a regression problem. When y can take on only a small number of discrete values (such as if, given the living area, we wanted to predict if a dwelling is a house or an apartment, say), we call it a classification problem.  
     
@@ -103,7 +103,7 @@ To break it apart, it is <sup>1</sup>&frasl;<sub>2</sub><span style="text-decora
 
 This function is otherwise called the "Squared error function", or "Mean squared error". The mean is halved <sup>1</sup>&frasl;<sub>2</sub> a convenience for the computation of the gradient descent, as the derivative term of the square function will cancel out the <sup>1</sup>&frasl;<sub>2</sub> term. The following image summarizes what the cost function does:  
 
-<p align="center"><img src=cost.jpg></p>
+<p align="center"><img src=cost.png></p>
 
 ---
 
