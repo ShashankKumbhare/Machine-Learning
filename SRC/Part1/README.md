@@ -30,7 +30,7 @@
   
 ## 1-1 Introduction
 ### ```1-1-1 What is Machine Learning?```    
-Two definitions of Machine Learning are offered. Arthur Samuel described it as: "the field of study that gives computers the ability to learn without being explicitly programmed." This is an older, informal definition.  
+Two definitions of Machine `shashank`Learning are offered. Arthur Samuel described it as: "the field of study that gives ```shashank```computers the ability to learn without being explicitly programmed." This is an older, informal definition.  
 
 `shashank`  
   
