@@ -3,7 +3,7 @@
 #### Content
 
 ### [Part 1:](SRC/Part1)  
-[1-1 Introduction](SRC/Part1/readme.md#1-1-Introduction)  
+[1-1 Introduction](SRC/Part1/#1-1-Introduction)  
 [1-2 Model and Cost Fucntion](SRC/Part1/readme.md#1-2-Model-and-Cost-Fucntion)  
 [1-3 Parameter Learning](SRC/Part1/readme.md#1-3-Parameter-Learning)  
 [1-4 Linear Algebra Review](SRC/Part1/readme.md#1-4-Linear-Algebra-Review)  
