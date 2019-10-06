@@ -1,4 +1,3 @@
-<div class="align-justify">
 ## Part 1
 #### Content   
   
@@ -225,5 +224,4 @@ The intuition behind the convergence is that <sup>d</sup>&frasl;<sub>dx</sub>J(&
 
 ---
 ### ```1-4-6 Inverse and Transpose```   
-
-</div>	
+	
