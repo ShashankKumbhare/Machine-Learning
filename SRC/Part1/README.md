@@ -99,7 +99,7 @@ We can measure the accuracy of our hypothesis function by using a cost function.
 
 <p align="center"><img src=images/costformula.png></p>
 
-To break it apart, it is <sup>1</sup>&frasl;<sub>2</sub><span style="text-decoration:overline">x</span> where <span style="text-decoration:overline">x</span> is the mean of the squares of h<sub>&theta;</sub>(x<sub>i</sub>) - y<sub>i</sub>, or the difference between the predicted value and the actual value.
+To break it apart, it is <sup>1</sup>&frasl;<sub>2</sub> <span style="text-decoration: overline">x</span> where <span style="text-decoration:overline">x</span> is the mean of the squares of h<sub>&theta;</sub>(x<sub>i</sub>) - y<sub>i</sub>, or the difference between the predicted value and the actual value.
 
 This function is otherwise called the "Squared error function", or "Mean squared error". The mean is halved <sup>1</sup>&frasl;<sub>2</sub> a convenience for the computation of the gradient descent, as the derivative term of the square function will cancel out the <sup>1</sup>&frasl;<sub>2</sub> term. The following image summarizes what the cost function does:  
 
