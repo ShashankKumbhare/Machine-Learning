@@ -97,8 +97,8 @@ When the target variable that we’re trying to predict is continuous, such as i
 ### ```1-2-2 Cost Function```    
 We can measure the accuracy of our hypothesis function by using a cost function. This takes an average difference (actually a fancier version of an average) of all the results of the hypothesis with inputs from x's and the actual output y's.  
   
-  1&frasl;10  
-  <sup>1</sup>&frasl;<sub>10</sub>  
+  x&frasl;y  
+  <sup>x</sup>&frasl;<sub>y</sub>  
   
 J(θ0,θ1)=12m∑i=1m(y^i−yi)2=12m∑i=1m(hθ(xi)−yi)2
 To break it apart, it is \frac{1}{2} 
