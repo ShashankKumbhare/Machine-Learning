@@ -198,13 +198,31 @@ The intuition behind the convergence is that <sup>d</sup>&frasl;<sub>dx</sub>J(&
 
 ---
 ### ```1-3-3 Gradient Descent For Linear Regression```     
+When specifically applied to the case of linear regression, a new form of the gradient descent equation can be derived. We can substitute our actual cost function and our actual hypothesis function and modify the equation to :  
 
+<p align="center"><img src=images/gdlr1.png></p>
+
+where m is the size of the training set, &theta;<sub>0</sub> a constant that will be changing simultaneously with &theta;<sub>1</sub> and x<sub>i</sub>, y<sub>i</sub> are values of the given training set (data).  
+
+Note that we have separated out the two cases for &theta;<sub>j</sub> into separate equations for &theta;<sub>0</sub> and &theta;<sub>1</sub>; and that for &theta;<sub>1</sub> we are multiplying x<sub>i</sub> at the end due to the derivative. The following is a derivation of <sup>∂</sup>&frasl;<sub>∂θ</sub> J(&theta;)
+
+∂∂θjJ(θ) for a single example :  
+
+<p align="center"><img src=images/gdlr2.png></p>
+
+The point of all this is that if we start with a guess for our hypothesis and then repeatedly apply these gradient descent equations, our hypothesis will become more and more accurate.  
+
+So, this is simply gradient descent on the original cost function J. This method looks at every example in the entire training set on every step, and is called batch gradient descent. Note that, while gradient descent can be susceptible to local minima in general, the optimization problem we have posed here for linear regression has only one global, and no other local, optima; thus gradient descent always converges (assuming the learning rate α is not too large) to the global minimum. Indeed, J is a convex quadratic function. Here is an example of gradient descent as it is run to minimize a quadratic function.  
+
+<p align="center"><img src=images/gdlr3.png></p>
+
+The ellipses shown above are the contours of a quadratic function. Also shown is the trajectory taken by gradient descent, which was initialized at (48,30). The x’s in the figure (joined by straight lines) mark the successive values of θ that gradient descent went through as it converged to its minimum.
 
 ---
 
 ## 1-4 Linear Algebra Review
 ### ```1-4-1 Matrices and Vectors```   
-
+  
 
 ---
 ### ```1-4-2 Addition and Scalar Multiplication```   
