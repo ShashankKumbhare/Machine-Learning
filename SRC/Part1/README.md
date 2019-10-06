@@ -179,9 +179,9 @@ In this video we explored the scenario where we used one parameter &theta;<sub>1
 
 Repeat until convergence:  
 
-<p align="center"><img src=images/conv.png></p>
+<p align="left"><img src=images/conv.png></p>
 
-Regardless of the slope's sign for <sup>d</sup>&frasl;<sub>dx</sub>(J(&theta;<sub>1</sub>), &theta;;<sub>1</sub> eventually converges to its minimum value. The following graph shows that when the slope is negative, the value of &theta;<sub>1</sub> increases and when it is positive, the value of &theta;<sub>1</sub> decreases.  
+Regardless of the slope's sign for <sup>d</sup>&frasl;<sub>dx</sub>(J(&theta;<sub>1</sub>), &theta;<sub>1</sub> eventually converges to its minimum value. The following graph shows that when the slope is negative, the value of &theta;<sub>1</sub> increases and when it is positive, the value of &theta;<sub>1</sub> decreases.  
 
 <p align="center"><img src=images/gd1.png></p>
 
@@ -192,7 +192,7 @@ On a side note, we should adjust our parameter \alphaα to ensure that the gradi
 How does gradient descent converge with a fixed step size \alpha α?  
 The intuition behind the convergence is that \frac{d}{d\theta_1} J(\theta_1)J(θ) approaches 0 as we approach the bottom of our convex function. At the minimum, the derivative will always be 0 and thus we get:  
 
-<p align="center"><img src=images/zero.png></p>
+<p align="left"><img src=images/zero.png></p>
 
 <p align="center"><img src=images/gd3.png></p>
 
