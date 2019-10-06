@@ -163,7 +163,7 @@ The gradient descent algorithm is:
 
 repeat until convergence:  
 
-<p align="center"><img src=images/conv.png></p>
+<p align="left"><img src=images/conv.png></p>
 
 where  
 
