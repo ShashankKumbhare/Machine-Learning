@@ -200,7 +200,7 @@ The intuition behind the convergence is that <sup>d</sup>&frasl;<sub>dx</sub>J(&
 ### ```1-3-3 Gradient Descent For Linear Regression```     
 When specifically applied to the case of linear regression, a new form of the gradient descent equation can be derived. We can substitute our actual cost function and our actual hypothesis function and modify the equation to :  
 
-<p align="center"><img src=images/gdlr1.png></p>
+<p align="left"><img src=images/gdlr1.png></p>
 
 where m is the size of the training set, &theta;<sub>0</sub> a constant that will be changing simultaneously with &theta;<sub>1</sub> and x<sub>i</sub>, y<sub>i</sub> are values of the given training set (data).  
 
@@ -208,7 +208,7 @@ Note that we have separated out the two cases for &theta;<sub>j</sub> into separ
 
 ∂∂θjJ(θ) for a single example :  
 
-<p align="center"><img src=images/gdlr2.png></p>
+<p align="left"><img src=images/gdlr2.png></p>
 
 The point of all this is that if we start with a guess for our hypothesis and then repeatedly apply these gradient descent equations, our hypothesis will become more and more accurate.  
 
