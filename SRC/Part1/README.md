@@ -216,7 +216,7 @@ So, this is simply gradient descent on the original cost function J. This method
 
 <p align="center"><img src=images/gdlr3.png></p>
 
-The ellipses shown above are the contours of a quadratic function. Also shown is the trajectory taken by gradient descent, which was initialized at (48,30). The x’s in the figure (joined by straight lines) mark the successive values of θ &theta; that gradient descent went through as it converged to its minimum.
+The ellipses shown above are the contours of a quadratic function. Also shown is the trajectory taken by gradient descent, which was initialized at (48,30). The x’s in the figure (joined by straight lines) mark the successive values of θ; that gradient descent went through as it converged to its minimum.
 
 ---
 
