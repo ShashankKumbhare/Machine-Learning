@@ -2,7 +2,7 @@
 
 #### Content
 
-### [Part 1:](SRC/Part1)  
+### [Part 1:](SRC/Part1/Part1.ipynb)  
 [1-1 Introduction](SRC/Part1/Part1.ipynb#1-1-Introduction)  
 [1-2 Model and Cost Fucntion](SRC/Part1/Part1.ipynb#1-2-Model-and-Cost-Fucntion)  
 [1-3 Parameter Learning](SRC/Part1/Part1.ipynb#1-3-Parameter-Learning)  
