@@ -29,8 +29,8 @@
 ---
   
 ### 1-1 Introduction
-#### ```1-1-1 What is Machine Learning?```   
-Two definitions of ```Machine``` Learning are offered. Arthur Samuel described it as: "the field of study that gives computers the ability to learn without being explicitly programmed." This is an older, informal definition.  
+#### ```1-1-1 What is Machine Learning?```    
+Two definitions of Machine Learning are offered. Arthur Samuel described it as: "the field of study that gives computers the ability to learn without being explicitly programmed." This is an older, informal definition.  
 
 Tom Mitchell provides a more modern definition: "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E."  
 
@@ -67,7 +67,7 @@ Example 2:
 
 ---
 
-#### ```1-1-3 Unsupervised Learning```   
+### ```1-1-3 Unsupervised Learning```   
 Unsupervised learning allows us to approach problems with little or no idea what our results should look like. We can derive structure from data where we don't necessarily know the effect of the variables.  
   
 We can derive this structure by clustering the data based on relationships among the variables in the data.  
