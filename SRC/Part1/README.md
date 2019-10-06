@@ -84,7 +84,7 @@ Non-clustering: The "Cocktail Party Algorithm", allows you to find structure in 
 
 ## 1-2 Model and Cost Fucntion
 ### ```1-2-1 Model Representation```   
-To establish notation for future use, we’ll use x<sup>(i)</sup> to denote the “input” variables (living area in this example), also called input features, and y<sup>(i)</sup> to denote the “output” or target variable that we are trying to predict (price). A pair (x<sup>(i)</sup>,y<sup>(i)</sup>) is called a training example, and the dataset that we’ll be using to learn—a list of m training examples (x<sup>(i)</sup>,y<sup>(i)</sup>) ;i=1,...,m—is called a training set. Note that the superscript “(i)” in the notation is simply an index into the training set, and has nothing to do with exponentiation. We will also use X to denote the space of input values, and Y to denote the space of output values. In this example, X = Y = R.  
+To establish notation for future use, we’ll use x<sup>(i)</sup> to denote the “input” variables (living area in this example), also called input features, and y<sup>(i)</sup> to denote the “output” or target variable that we are trying to predict (price). A pair (x<sup>(i)</sup>,y<sup>(i)</sup>) is called a training example, and the dataset that we’ll be using to learn—a list of m training examples (x<sup>(i)</sup>,y<sup>(i)</sup>) ; i=1,...,m—is called a training set. Note that the superscript “(i)” in the notation is simply an index into the training set, and has nothing to do with exponentiation. We will also use X to denote the space of input values, and Y to denote the space of output values. In this example, X = Y = R.  
   
 To describe the supervised learning problem slightly more formally, our goal is, given a training set, to learn a function h : X → Y so that h(x) is a “good” predictor for the corresponding value of y. For historical reasons, this function h is called a hypothesis. Seen pictorially, the process is therefore like this:  
 
@@ -114,7 +114,7 @@ Our objective is to get the best possible line. The best possible line will be s
 
 <p align="center"><img src=cf1.png></p>  
 
-When &theta;<sub>1</sub>=1, we get a slope of 1 which goes through every single data point in our model. Conversely, when &theta;<sub>1</sub> =0.5, we see the vertical distance from our fit to the data points increase.  
+When &theta;<sub>1</sub> = 1, we get a slope of 1 which goes through every single data point in our model. Conversely, when &theta;<sub>1</sub> = 0.5, we see the vertical distance from our fit to the data points increase.  
 
 <p align="center"><img src=cf2.png></p>  
 
@@ -122,7 +122,7 @@ This increases our cost function to 0.58. Plotting several other points yields t
 
 <p align="center"><img src=cf3.png></p>  
 
-Thus as a goal, we should try to minimize the cost function. In this case, &theta;<sub>1</sub>=1 is our global minimum.  
+Thus as a goal, we should try to minimize the cost function. In this case, &theta;<sub>1</sub> = 1 is our global minimum.  
 
 ---
 
@@ -131,7 +131,7 @@ A contour plot is a graph that contains many contour lines. A contour line of a 
 
 <p align="center"><img src=cf4.png></p>  
 
-Taking any color and going along the 'circle', one would expect to get the same value of the cost function. For example, the three green points found on the green line above have the same value for J(&theta;<sub>0</sub>,&theta;<sub>1</sub>) and as a result, they are found along the same line. The circled x displays the value of the cost function for the graph on the left when &theta;<sub>0</sub>=800 and &theta;<sub>1</sub>=-0.15. Taking another h(x) and plotting its contour plot, one gets the following graphs:  
+Taking any color and going along the 'circle', one would expect to get the same value of the cost function. For example, the three green points found on the green line above have the same value for J(&theta;<sub>0</sub>,&theta;<sub>1</sub>) and as a result, they are found along the same line. The circled x displays the value of the cost function for the graph on the left when &theta;<sub>0</sub> = 800 and &theta;<sub>1</sub> = -0.15. Taking another h(x) and plotting its contour plot, one gets the following graphs:  
 
 <p align="center"><img src=cf5.png></p>  
 
