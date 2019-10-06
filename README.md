@@ -1,8 +1,8 @@
-# Welcome to Machine Learning Course
+## Welcome to Machine Learning Course
 
-### Content
+#### Content
 
-## [Part 1:](SRC/Part1)  
+### [Part 1:](SRC/Part1)  
 [1-1 Introduction](SRC/Part1/README.md#1-1-Introduction)  
 [1-2 Model and Cost Fucntion](SRC/Part1/README.md#1-2-Model-and-Cost-Fucntion)  
 [1-3 Parameter Learning](SRC/Part1/README.md#1-3-Parameter-Learning)  
@@ -10,7 +10,7 @@
 
 ---
 ---
-## [Part 2:](SRC/Part2)  
+### [Part 2:](SRC/Part2)  
 [2-1 ]()  
 [2-2 ]()  
 [2-3 ]()  
@@ -18,7 +18,7 @@
 
 ---
 ---	
-## [Part 3:](SRC/Part3)  
+### [Part 3:](SRC/Part3)  
 [3-1 ]()  
 [3-2 ]()  
 [3-3 ]()  
@@ -26,7 +26,7 @@
 
 ---	
 ---
-## [Part 4](SRC/Part4)
+### [Part 4](SRC/Part4)
 [4-1 ]()  
 [4-2 ]()  
 [4-3 ]()  
@@ -34,7 +34,7 @@
 
 ---	
 ---
-## [Part 5:](SRC/Part5)  
+### [Part 5:](SRC/Part5)  
 [5-1 ]()  
 [5-2 ]()  
 [5-3 ]()  
