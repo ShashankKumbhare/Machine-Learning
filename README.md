@@ -72,7 +72,7 @@
 [10-4 ]()   
 
 ---	
-### [Part 11:](SRC/Part11)  
+### [Part 11:](SRC/Part11/Untitled8.ipynb)  
 [11-1 ]()  
 [11-2 ]()  
 [11-3 ]()  
