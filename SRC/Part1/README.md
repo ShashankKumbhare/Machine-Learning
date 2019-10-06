@@ -113,7 +113,6 @@ When the target variable that we’re trying to predict is continuous, such as i
 
 
 ---
----
 
 ## 1-3 Parameter Learning
 ### ```1-3-1 Gradient Descent```    
@@ -128,7 +127,7 @@ When the target variable that we’re trying to predict is continuous, such as i
 
 
 ---
----
+
 ## 1-4 Linear Algebra Review
 ### ```1-4-1 Matrices and Vectors```   
 
