@@ -1,12 +1,12 @@
 ## Part 1
 ### Content   
   
-[**1-1 Introduction**](#1-1-Introduction)    
+### [**1-1 Introduction**](#1-1-Introduction)    
 1-1-1 What is Machine Learning?    
 1-1-2 Supervised Learning  
 1-1-3 Unsupervised Learning  
   
-[**1-2 Model and Cost Fucntion**](#1-2-Model-and-Cost-Fucntion)  
+### [**1-2 Model and Cost Fucntion**](#1-2-Model-and-Cost-Fucntion)  
 1-2-1 Model Representation  
 1-2-2 Cost Function  
 1-2-3 Cost Function - Intuition I  
