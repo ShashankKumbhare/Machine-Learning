@@ -100,6 +100,8 @@ We can measure the accuracy of our hypothesis function by using a cost function.
   shashank  x&frasl;y shashank     
   shashank <sup>x</sup>&frasl;<sub>y</sub>    shashank  
   shashank  <small><u>1</u><br/>2</small>  shashank  
+  <small><u>1</u><br/>2</small>  
+  
   
 J(θ0,θ1)=12m∑i=1m(y^i−yi)2=12m∑i=1m(hθ(xi)−yi)2
 
