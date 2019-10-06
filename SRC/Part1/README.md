@@ -175,7 +175,26 @@ At each iteration j, one should simultaneously update the parameters &theta;<sub
 
 ---
 ### ```1-3-2 Gradient Descent Intuition```    
+In this video we explored the scenario where we used one parameter &theta;<sub>1</sub> and plotted its cost function to implement a gradient descent. Our formula for a single parameter was :  
 
+Repeat until convergence:  
+
+<p align="center"><img src=images/conv.png></p>
+
+Regardless of the slope's sign for <sup>d</sup>&frasl;<sub>dx</sub>(J(&theta;<sub>1</sub>), &theta;;<sub>1</sub> eventually converges to its minimum value. The following graph shows that when the slope is negative, the value of &theta;<sub>1</sub> increases and when it is positive, the value of &theta;<sub>1</sub> decreases.  
+
+<p align="center"><img src=images/gd1.png></p>
+
+On a side note, we should adjust our parameter \alphaα to ensure that the gradient descent algorithm converges in a reasonable time. Failure to converge or too much time to obtain the minimum value imply that our step size is wrong.  
+
+<p align="center"><img src=images/gd2.png></p>
+
+How does gradient descent converge with a fixed step size \alpha α?  
+The intuition behind the convergence is that \frac{d}{d\theta_1} J(\theta_1)J(θ) approaches 0 as we approach the bottom of our convex function. At the minimum, the derivative will always be 0 and thus we get:  
+
+<p align="center"><img src=images/zero.png></p>
+
+<p align="center"><img src=images/gd3.png></p>
 
 ---
 ### ```1-3-3 Gradient Descent For Linear Regression```     
