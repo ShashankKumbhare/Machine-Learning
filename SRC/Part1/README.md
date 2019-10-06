@@ -1,3 +1,4 @@
+<div style="text-align: justify">
 ## Part 1
 #### Content   
   
@@ -189,8 +190,8 @@ On a side note, we should adjust our parameter \alphaα to ensure that the gradi
 
 <p align="center"><img src=images/gd2.png></p>
 
-How does gradient descent converge with a fixed step size \alpha α?  
-The intuition behind the convergence is that \frac{d}{d\theta_1} J(\theta_1)J(θ) approaches 0 as we approach the bottom of our convex function. At the minimum, the derivative will always be 0 and thus we get:  
+How does gradient descent converge with a fixed step size α?  
+The intuition behind the convergence is that <sup>d</sup>&frasl;<sub>dx</sub>J(&theta;<sub>1</sub>) approaches 0 as we approach the bottom of our convex function. At the minimum, the derivative will always be 0 and thus we get:  
 
 <p align="left"><img src=images/zero.png></p>
 
@@ -224,4 +225,5 @@ The intuition behind the convergence is that \frac{d}{d\theta_1} J(\theta_1)J(θ
 
 ---
 ### ```1-4-6 Inverse and Transpose```   
-	
+
+</div>	
