@@ -29,7 +29,7 @@
   
   
 ## 1-1 Introduction
-### ```1-1-1 What is Machine Learning?```    
+### ```1-1-1 What is Machine Learning?```     
 Two definitions of Machine Learning are offered. Arthur Samuel described it as: "the field of study that gives computers the ability to learn without being explicitly programmed." This is an older, informal definition.  
   
 Tom Mitchell provides a more modern definition: "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E." 
@@ -219,27 +219,3 @@ So, this is simply gradient descent on the original cost function J. This method
 The ellipses shown above are the contours of a quadratic function. Also shown is the trajectory taken by gradient descent, which was initialized at (48,30). The x’s in the figure (joined by straight lines) mark the successive values of θ; that gradient descent went through as it converged to its minimum.
 
 ---
-
-## 1-4 Linear Algebra Review
-### ```1-4-1 Matrices and Vectors```   
-  
-
----
-### ```1-4-2 Addition and Scalar Multiplication```   
-
-
----
-### ```1-4-3 Matrix-Vector Multiplication```    
-
-
----
-### ```1-4-4 Matrix-Matrix Multiplication```   
-
-
----
-### ```1-4-5 Matrix Multiplication Properties```   
-
-
----
-### ```1-4-6 Inverse and Transpose```   
-	
