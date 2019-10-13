@@ -68,7 +68,7 @@ The following image compares gradient descent with one variable to gradient desc
   
 ---  
   
-### ```3-1-3 Gradient Descent in Practice I - Feature Scaling```   
+### ```2-1-3 Gradient Descent in Practice I - Feature Scaling```   
 We can speed up gradient descent by having each of our input values in roughly the same range. This is because θ will descend quickly on small ranges and slowly on large ranges, and so will oscillate inefficiently down to the optimum when the variables are very uneven.  
   
 The way to prevent this is to modify the ranges of our input variables so that they are all roughly the same. Ideally:    
@@ -94,6 +94,26 @@ For example, if x<sub>i</sub> represents housing prices with a range of 100 to 2
 <p align="left"><img src=images/eq2.png></p>  
    
 ---  	 
+
+### ```2-1-2 Gradient Descent For Multiple Variables```    
+  
+<p align="center"><video src="gd.mp4" width="320" height="200" controls preload></video></p>  
+  
+Debugging gradient descent. Make a plot with number of iterations on the x-axis. Now plot the cost function, J(θ) over the number of iterations of gradient descent. If J(θ) ever increases, then you probably need to decrease α.
+
+Automatic convergence test. Declare convergence if J(θ) decreases by less than E in one iteration, where E is some small value such as 10−3. However in practice it's difficult to choose this threshold value.
+
+
+It has been proven that if learning rate α is sufficiently small, then J(θ) will decrease on every iteration.
+
+
+To summarize:
+
+If \alphaα is too small: slow convergence.
+
+If \alphaα is too large: ￼may not decrease on every iteration and thus may not converge.  
+  
+---  
   
 ## 2-2 <txt>  
 ### ```2-2-1 <txt>```       
