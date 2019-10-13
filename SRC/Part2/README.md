@@ -113,7 +113,7 @@ To summarize:
   
 If α is too small: slow convergence.  
   
-If α is too large: ￼may not decrease on every iteration and thus may not converge.  
+If α is too large: J(θ) may not decrease on every iteration and thus may not converge.  
   
 ---  
   
