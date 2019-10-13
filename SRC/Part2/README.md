@@ -97,7 +97,7 @@ For example, if x<sub>i</sub> represents housing prices with a range of 100 to 2
 
 ### ```2-1-2 Gradient Descent For Multiple Variables```    
   
-<p align="center"><video src="gd.mp4" width="320" height="200" controls preload></video></p>  
+<p align="center"><video src=images/gd.mp4 width="320" height="200" controls preload></video></p>  
   
 Debugging gradient descent. Make a plot with number of iterations on the x-axis. Now plot the cost function, J(θ) over the number of iterations of gradient descent. If J(θ) ever increases, then you probably need to decrease α.  
   
