@@ -54,10 +54,17 @@ Remark: Note that for convenience reasons in this course we assume x<sub>0</sub>
   
 ---  
   
-### ```2-1-2 <txt>```    
-<
-txt
->  
+### ```2-1-2 Gradient Descent For Multiple Variables```    
+The gradient descent equation itself is generally the same form; we just have to repeat it for our 'n' features:  
+   
+<p align="left"><img src=images/conv.png></p>
+  
+In other words:  
+   
+<p align="left"><img src=images/conv1.png></p>  
+    
+The following image compares gradient descent with one variable to gradient descent with multiple variables:  
+<p align="centre"><img src=images/gd.png></p>  
   
 ---  
   
