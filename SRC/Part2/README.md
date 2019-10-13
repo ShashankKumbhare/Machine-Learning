@@ -40,7 +40,8 @@ We now introduce notation for equations where we can have any number of input va
   
 The multivariable form of the hypothesis function accommodating these multiple features is as follows:  
   
-```h<sub>θ</sub>(x) = θ<sub>0</sub>x<sub>0</sub> + θ<sub>1</sub>x<sub>1</sub> + θ<sub>2</sub>x<sub>2</sub> +....+ θ<sub>n</sub>x<sub>n</sub>```  
+```markdown
+h<sub>θ</sub>(x) = θ<sub>0</sub>x<sub>0</sub> + θ<sub>1</sub>x<sub>1</sub> + θ<sub>2</sub>x<sub>2</sub> +....+ θ<sub>n</sub>x<sub>n</sub>```  
   
 In order to develop intuition about this function, we can think about θ<sub>0</sub> as the basic price of a house, θ<sub>1</sub> as the price per square meter, θ<sub>2</sub> as the price per floor, etc. x<sub>1</sub> will be the number of square meters in the house, x<sub>2</sub> the number of floors, etc.  
   
