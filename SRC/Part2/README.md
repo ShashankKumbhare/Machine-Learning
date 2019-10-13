@@ -91,7 +91,7 @@ Note that dividing by the range, or dividing by the standard deviation, give dif
   
 For example, if x<sub>i</sub> represents housing prices with a range of 100 to 2000 and a mean value of 1000, then,  
 
-<p align="left"><img src=images/eeq2.png></p>  
+<p align="left"><img src=images/eq2.png></p>  
    
 ---  	 
   
