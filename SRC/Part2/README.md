@@ -99,19 +99,21 @@ For example, if x<sub>i</sub> represents housing prices with a range of 100 to 2
   
 <p align="center"><video src="gd.mp4" width="320" height="200" controls preload></video></p>  
   
-Debugging gradient descent. Make a plot with number of iterations on the x-axis. Now plot the cost function, J(θ) over the number of iterations of gradient descent. If J(θ) ever increases, then you probably need to decrease α.
-
-Automatic convergence test. Declare convergence if J(θ) decreases by less than E in one iteration, where E is some small value such as 10−3. However in practice it's difficult to choose this threshold value.
-
-
-It has been proven that if learning rate α is sufficiently small, then J(θ) will decrease on every iteration.
-
-
-To summarize:
-
-If \alphaα is too small: slow convergence.
-
-If \alphaα is too large: ￼may not decrease on every iteration and thus may not converge.  
+Debugging gradient descent. Make a plot with number of iterations on the x-axis. Now plot the cost function, J(θ) over the number of iterations of gradient descent. If J(θ) ever increases, then you probably need to decrease α.  
+  
+Automatic convergence test. Declare convergence if J(θ) decreases by less than E in one iteration, where E is some small value such as 10−3. However in practice it's difficult to choose this threshold value.  
+  
+<p align="center"><img src=images/gd1.png></p>  
+  
+It has been proven that if learning rate α is sufficiently small, then J(θ) will decrease on every iteration.  
+  
+<p align="center"><img src=images/gd2.png></p>  
+  
+To summarize:  
+  
+If α is too small: slow convergence.  
+  
+If α is too large: ￼may not decrease on every iteration and thus may not converge.  
   
 ---  
   
