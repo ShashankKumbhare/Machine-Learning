@@ -9,7 +9,7 @@
 2-1-5 Features and Polynomial Regression  
   
 [**2-2 Computing Parameters Analytically**](#2-2-Computing-Parameters-Analytically)  
-2-2-1 <Normal Equation>  
+2-2-1 Normal Equation  
 2-2-2 <txt>  
 2-2-3 <txt>  
 2-2-4 <txt>  
