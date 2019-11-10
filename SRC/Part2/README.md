@@ -11,25 +11,12 @@
 [**2-2 Computing Parameters Analytically**](#2-2-Computing-Parameters-Analytically)  
 2-2-1 Normal Equation  
 2-2-2 Normal Equation Noninvertibility  
-2-2-3 <txt>  
-2-2-4 <txt>  
   
-[**2-3 <txt>**](21-1-<txt>)    
-2-3-1 <txt>  
-2-3-2 <txt>  
-2-3-3 <txt>  
-  
-[**2-4 <txt>**](21-1-<txt>)    
-2-4-1 <txt>  
-2-4-2 <txt>  
-2-4-3 <txt>  
-2-4-4 <txt>  
-2-4-5 <txt>  
-2-4-6 <txt>  
+[**Review Part 2**](multivariate_linear_regression)     
   
 ---  
     
-  
+	
 ## 2-1 Multivariate Linear Regression  
 ### ```2-1-1 Multiple Features```         
 Linear regression with multiple variables is also known as "multivariate linear regression".  
