@@ -9,7 +9,7 @@
 2-1-5 Features and Polynomial Regression  
   
 [**2-2 Computing Parameters Analytically**](#2-2-Computing-Parameters-Analytically)  
-2-2-1 <txt>  
+2-2-1 <Normal Equation>  
 2-2-2 <txt>  
 2-2-3 <txt>  
 2-2-4 <txt>  
@@ -137,12 +137,22 @@ eg. if x<sub>1</sub> has range 1 - 1000 then range of x<sub>1</sub><sup>2</sup> 
   
 ---   
   
-## 2-2 <txt>  
-### ```2-2-1 <txt>```       
-<
-txt
->    
-    
+## 2-2 <Computing Parameters Analytically>  
+### ```2-2-1 <Normal Equation>```       
+Gradient descent gives one way of minimizing J. Let’s discuss a second way of doing so, this time performing the minimization explicitly and without resorting to an iterative algorithm. In the "Normal Equation" method, we will minimize J by explicitly taking its derivatives with respect to the θj ’s, and setting them to zero. This allows us to find the optimum theta without iteration. The normal equation formula is given below:  
+  
+θ = (X<sup>T</sup>x<sup>T</sup>)<sup>-1</sup>X<sup>T</sup>y  
+  
+<p align="center"><img src=images/normal_equation.png></p>      
+  
+There is **no need** to do feature scaling with the normal equation.  
+  
+The following is a comparison of gradient descent and the normal equation:  
+  
+<p align="center"><img src=images/normal_equation_table.jpg></p>    
+  
+With the normal equation, computing the inversion has complexity O(n<sup>3</sup>). So if we have a very large number of features, the normal equation will be slow. In practice, when n exceeds 10,000 it might be a good time to go from a normal solution to an iterative process.  
+  
 ---  
   
 ### ```2-2-2 <txt>```     
