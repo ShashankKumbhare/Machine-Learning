@@ -10,7 +10,7 @@
   
 [**2-2 Computing Parameters Analytically**](#2-2-Computing-Parameters-Analytically)  
 2-2-1 Normal Equation  
-2-2-2 <txt>  
+2-2-2 Normal Equation Noninvertibility  
 2-2-3 <txt>  
 2-2-4 <txt>  
   
@@ -137,8 +137,8 @@ eg. if x<sub>1</sub> has range 1 - 1000 then range of x<sub>1</sub><sup>2</sup> 
   
 ---   
   
-## 2-2 <Computing Parameters Analytically>  
-### ```2-2-1 <Normal Equation>```       
+## 2-2 Computing Parameters Analytically  
+### ```2-2-1 Normal Equation```       
 Gradient descent gives one way of minimizing J. Let’s discuss a second way of doing so, this time performing the minimization explicitly and without resorting to an iterative algorithm. In the "Normal Equation" method, we will minimize J by explicitly taking its derivatives with respect to the θj ’s, and setting them to zero. This allows us to find the optimum theta without iteration. The normal equation formula is given below:  
   
 θ = (X<sup>T</sup>X)<sup>-1</sup>X<sup>T</sup>y  
@@ -155,10 +155,15 @@ With the normal equation, computing the inversion has complexity O(n<sup>3</sup>
   
 ---  
   
-### ```2-2-2 <txt>```     
-<
-txt
->  
+### ```2-2-2 Normal Equation Noninvertibility```     
+When implementing the normal equation in octave we want to use the 'pinv' function rather than 'inv.' The 'pinv' function will give you a value of θ even if X<sup>T</sup>X is not invertible.  
+  
+If X<sup>T</sup>X is **noninvertible**, the common causes might be having :  
+  
+* Redundant features, where two features are very closely related (i.e. they are linearly dependent)  
+* Too many features (e.g. m ≤ n). In this case, delete some features or use "regularization" (to be explained in a later lesson).  
+  
+Solutions to the above problems include deleting a feature that is linearly dependent with another or deleting one or more features when there are too many features.  
   
 ---  
   
