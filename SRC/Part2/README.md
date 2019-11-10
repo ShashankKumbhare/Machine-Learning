@@ -12,7 +12,7 @@
 2-2-1 Normal Equation  
 2-2-2 Normal Equation Noninvertibility  
   
-[**Review Part 2**](multivariate_linear_regression)     
+[**Review Part 2**](#Review-Part-2)     
   
 ---  
     
@@ -154,73 +154,7 @@ Solutions to the above problems include deleting a feature that is linearly depe
   
 ---  
   
-### ```2-2-3 <txt>```       
-<
-txt
->  
   
----  
-  
-### ```2-2-4 <txt>```      
-<
-txt
->  
-  
----  
-  
-## 2-3 <txt>  
-### ```2-3-1 <txt>```        
-<
-txt
->  
-  
----  
-### ```2-3-2 <txt>```    
-<
-txt
->  
-  
----  
-### ```2-3-3 <txt>```     
-<
-txt
->  
-
----  
-  
-## 2-4 <txt>  
-### ```2-4-1 <txt>```       
-<
-txt
->  
-  
----  
-### ```2-4-2 <txt>```    
-<
-txt
->  
-  
----  
-### ```2-4-3 <txt>```     
-<
-txt
->  
-  
----  
-### ```2-4-4 <txt>```    
-<
-txt
->  
-  
----  
-### ```2-4-5 <txt>```    
-<
-txt
->  
-  
----  
-### ```2-4-6 <txt>```    
-<
-txt
->	
-  
+## Review Part 2  
+[Review Part 2](multivariate_linear_regression)  
+    
