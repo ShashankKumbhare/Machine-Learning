@@ -216,6 +216,6 @@ The ellipses shown above are the contours of a quadratic function. Also shown is
 ---
 
 
-## 2-3 Review Part 1  
+## 1-4 Review Part 1  
 [Review Part 1-Introduction](Introduction.pdf)  
 [Review Part 1-Linear regression with one variable](Linear_regression_with_one_variable.pdf)      
