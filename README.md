@@ -11,8 +11,7 @@
 ### [Part 2:](SRC/Part2)  
 [2-1 Multivariate Linear Regression](SRC/Part2/#2-1-Multivariate-Linear-Regression)  
 [2-2 Computing Parameters Analytically](SRC/Part2/#2-2-Computing-Parameters-Analytically)  
-
-[2-2 Review Part 2](SRC/Part2/#2-3-Review-Part-2)  
+[2-3 Review Part 2](SRC/Part2/#2-3-Review-Part-2)  
   
 ---	
 ### [Part 3:](SRC/Part3)  
