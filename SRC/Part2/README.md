@@ -114,6 +114,38 @@ If α is too large: J(θ) may not decrease on every iteration and thus may not c
   
 ---  
   
+    
+### ```2-1-5 Features and Polynomial Regression```   
+We can improve our features and the form of our hypothesis function in a couple different ways.
+
+We can **combine** multiple features into one. For example, we can combine x<sub>1</sub> and x<sub>2</sub> into a new feature x<sub>3</sub> by taking x<sub>1</sub>.x<sub>2</sub>.  
+  
+#### **Polynomial Regression**  
+Our hypothesis function need not be linear (a straight line) if that does not fit the data well.  
+  
+We can **change the behavior or curve** of our hypothesis function by making it a quadratic, cubic or square root function (or any other form).  
+  
+For example, if our hypothesis function is h<sub>θ</sub>(x) = θ<sub>0</sub> + θ<sub>1</sub>x<sub>1</sub> then we can create additional features based on x<sub>1</sub>, to get the quadratic function h<sub>θ</sub>(x) = θ<sub>0</sub> + θ<sub>1</sub>x<sub>1</sub> + θ<sub>2</sub>x<sub>2</sub> + or the cubic function h<sub>θ</sub>(x) = θ<sub>0</sub> + θ<sub>1</sub>x<sub>1</sub> + θ<sub>2</sub>x<sub>2</sub> + θ<sub>3</sub>x<sub>3</sub>.  
+  
+In the cubic version, we have created new features x<sub>2</sub> and x<sub>3</sub> where x<sub>2</sub> = x<sub>1</sub><sup>2</sup> and x<sub>3</sub> = x<sub>1</sub><sup>3</sup>.  
+  
+To make it a square root function, we could do: h<sub>θ</sub>(x) = θ<sub>0</sub> + θ<sub>1</sub>x<sub>1</sub> + θ<sub>2</sub><span>&radic;x<sub>1</sub></span>
+​	 
+
+One important thing to keep in mind is, if you choose your features this way then feature scaling becomes very important.
+
+eg. if x_1x 
+1
+​	  has range 1 - 1000 then range of x_1^2x 
+1
+2
+​	  becomes 1 - 1000000 and that of x_1^3x 
+1
+3
+​	  becomes 1 - 1000000000
+
+---  
+
 ## 2-2 <txt>  
 ### ```2-2-1 <txt>```       
 <
