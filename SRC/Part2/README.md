@@ -141,7 +141,7 @@ eg. if x<sub>1</sub> has range 1 - 1000 then range of x<sub>1</sub><sup>2</sup> 
 ### ```2-2-1 <Normal Equation>```       
 Gradient descent gives one way of minimizing J. Let’s discuss a second way of doing so, this time performing the minimization explicitly and without resorting to an iterative algorithm. In the "Normal Equation" method, we will minimize J by explicitly taking its derivatives with respect to the θj ’s, and setting them to zero. This allows us to find the optimum theta without iteration. The normal equation formula is given below:  
   
-θ = (X<sup>T</sup>x<sup>T</sup>)<sup>-1</sup>X<sup>T</sup>y  
+θ = (X<sup>T</sup>X)<sup>-1</sup>X<sup>T</sup>y  
   
 <p align="center"><img src=images/normal_equation.png></p>      
   
