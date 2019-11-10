@@ -16,6 +16,8 @@
 1-3-1 Gradient Descent  
 1-3-2 Gradient Descent Intuition  
 1-3-3 Gradient Descent For Linear Regression  
+
+[**1-4 Review Part 1**](#1-4-Review-Part-1)  
   
   
 ---
@@ -212,3 +214,8 @@ So, this is simply gradient descent on the original cost function J. This method
 The ellipses shown above are the contours of a quadratic function. Also shown is the trajectory taken by gradient descent, which was initialized at (48,30). The x’s in the figure (joined by straight lines) mark the successive values of θ; that gradient descent went through as it converged to its minimum.
 
 ---
+
+
+## 2-3 Review Part 1  
+[Review Part 1-Introduction](Introduction.pdf)  
+[Review Part 1-Linear regression with one variable](Linear_regression_with_one_variable.pdf)      

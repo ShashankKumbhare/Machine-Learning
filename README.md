@@ -6,6 +6,7 @@
 [1-1 Introduction](SRC/Part1/#1-1-Introduction)  
 [1-2 Model and Cost Fucntion](SRC/Part1/#1-2-Model-and-Cost-Fucntion)  
 [1-3 Parameter Learning](SRC/Part1/#1-3-Parameter-Learning)   
+[1-4 Review Part 1](SRC/Part1/#1-4-Review-Part-1)
 
 ---
 ### [Part 2:](SRC/Part2)  
