@@ -17,13 +17,6 @@
 1-3-2 Gradient Descent Intuition  
 1-3-3 Gradient Descent For Linear Regression  
   
-[**1-4 Linear Algebra Review**](#1-4-Linear-Algebra-Review)   
-1-4-1 Matrices and Vectors  
-1-4-2 Addition and Scalar Multiplication  
-1-4-3 Matrix-Vector Multiplication  
-1-4-4 Matrix-Matrix Multiplication  
-1-4-5 Matrix Multiplication Properties  
-1-4-6 Inverse and Transpose  
   
 ---
   
