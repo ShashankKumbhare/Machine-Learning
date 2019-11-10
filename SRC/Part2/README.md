@@ -96,9 +96,9 @@ For example, if x<sub>i</sub> represents housing prices with a range of 100 to 2
 ---  	 
 
 ### ```2-1-2 Gradient Descent For Multiple Variables```      
-Debugging gradient descent. Make a plot with number of iterations on the x-axis. Now plot the cost function, J(θ) over the number of iterations of gradient descent. If J(θ) ever increases, then you probably need to decrease α.  
+**Debugging gradient descent.** Make a plot with number of iterations on the x-axis. Now plot the cost function, J(θ) over the number of iterations of gradient descent. If J(θ) ever increases, then you probably need to decrease α.  
   
-Automatic convergence test. Declare convergence if J(θ) decreases by less than E in one iteration, where E is some small value such as 10−3. However in practice it's difficult to choose this threshold value.  
+**Automatic convergence test.** Declare convergence if J(θ) decreases by less than E in one iteration, where E is some small value such as 10−3. However in practice it's difficult to choose this threshold value.  
   
 <p align="center"><img src=images/gd1.png></p>  
   
