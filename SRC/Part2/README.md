@@ -156,5 +156,5 @@ Solutions to the above problems include deleting a feature that is linearly depe
   
   
 ## Review Part 2  
-[Review Part 2](multivariate_linear_regression)  
+[Review Part 2](multivariate_linear_regression.pdf)  
     
