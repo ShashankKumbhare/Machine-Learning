@@ -129,7 +129,7 @@ For example, if our hypothesis function is h<sub>θ</sub>(x) = θ<sub>0</sub> + 
   
 In the cubic version, we have created new features x<sub>2</sub> and x<sub>3</sub> where x<sub>2</sub> = x<sub>1</sub><sup>2</sup> and x<sub>3</sub> = x<sub>1</sub><sup>3</sup>.  
   
-To make it a square root function, we could do: h<sub>θ</sub>(x) = θ<sub>0</sub> + θ<sub>1</sub>x<sub>1</sub> + θ<sub>2</sub><span>&radic;<span style="text-decoration:overline">x1</span></span>
+To make it a square root function, we could do: h<sub>θ</sub>(x) = θ<sub>0</sub> + θ<sub>1</sub>x<sub>1</sub> + <span>&radic;<span style="text-decoration:overline">x<sub>1</sub></span></span>
 ​	 
 
 One important thing to keep in mind is, if you choose your features this way then feature scaling becomes very important.
