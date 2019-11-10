@@ -12,7 +12,7 @@
 2-2-1 Normal Equation  
 2-2-2 Normal Equation Noninvertibility  
   
-[**Review Part 2**](#Review-Part-2)     
+[**2-3 Review Part 2**](#Review-Part-2)     
   
 ---  
     
